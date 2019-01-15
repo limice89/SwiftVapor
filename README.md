@@ -24,7 +24,10 @@ vapor run
 >更新vapor  `brew upgrade vapor`  
 >如果你使用 SPM 时遇到问题, 清理项目有时会有帮助.
 >`vapor clean`
-
+ 
+在项目根目录部署heroku, 以后commit代码后更新部署到heroku`git push heroku master`
+ 
+ 
 
 
 
